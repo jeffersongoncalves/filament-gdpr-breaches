@@ -22,7 +22,7 @@ The Filament panel for [laravel-gdpr-breaches](https://github.com/jeffersongonca
 - **Notice in phases:** when information is still missing, tick *Notice in phases* and record the rest later with **Further information sent** (Art. 33(4)).
 - **No communication needed:** for a high risk that Art. 34(3) exempts (encrypted data, later measures, a public communication), record the reason instead.
 - Status badge (open, notification pending, overdue, closed), "Notification pending" and "Overdue" filters, and a navigation badge with pending breaches (red when one is overdue).
-- English (more languages coming).
+- 19 languages.
 
 ## Compatibility
 
